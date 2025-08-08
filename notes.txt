@@ -1,0 +1,18 @@
+
+Commands
+-----------------------------------
+
+Install Prettier:
+npm install -D prettier eslint-config-prettier eslint-plugin-prettier @typescript-eslint/parser
+
+
++++
+
+Install husky & lint-staged:
+npm install -D husky lint-staged
+
+
+Init husky:
+npx husky init
+
++++
