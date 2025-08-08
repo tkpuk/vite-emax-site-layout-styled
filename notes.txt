@@ -1,6 +1,6 @@
 
-Commands
------------------------------------
+Install Commands - For Prettier + Husky + Lint-staged
+----------------------------------------------------------------------------
 
 Install Prettier:
 npm install -D prettier eslint-config-prettier eslint-plugin-prettier @typescript-eslint/parser
@@ -15,4 +15,23 @@ npm install -D husky lint-staged
 Init husky:
 npx husky init
 
-+++
+##################################
+
+
+Install Commands - For React Router + Styled Components
+----------------------------------------------------------------------------
+
+npm i react-router-dom
+
+npm i -D @types/react-router-dom
+
++
+
+npm install styled-components
+
+npm install --save-dev @types/styled-components
+
++
+
+
+
