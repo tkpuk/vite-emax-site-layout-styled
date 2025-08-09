@@ -33,5 +33,9 @@ npm install --save-dev @types/styled-components
 
 +
 
+npm i react-icons
+
++
+
 
 
